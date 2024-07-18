@@ -1,9 +1,9 @@
-## Hi there 👋
-
+## 👋 Hello, I'm Olivia! 
+#### 👩🏻‍💻a network operations engineer  <br> 🇬🇧 based in the UK  <br>👌 my pronouns are she/her  <br> 🛠️ I'm currently a Network and Systems Operations engineer at [twitch](https://blog.twitch.tv/en/2021/10/25/so-you-want-to-work-at-twitch-meet-the-gsoc-team-with-elliot-fenech/) / [AWS IVS](https://ivs.rocks/)
 <!--
-**sc4ttys/sc4ttys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
