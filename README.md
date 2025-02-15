@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Olivia! 
-#### 👩🏻‍💻a network operations engineer with 8 years of experience <br> 🇬🇧 based in the UK  <br>🏳️‍🌈 my pronouns are she/her  <br> 🛠️ currently a Network and Systems Operations engineer at [twitch](https://blog.twitch.tv/en/2021/10/25/so-you-want-to-work-at-twitch-meet-the-gsoc-team-with-elliot-fenech/) / [AWS IVS](https://ivs.rocks/) <br> 🤙 to get in touch, DM me on  [LinkedIn](https://www.linkedin.com/in/oanders) <br> 📩 Talk to me about: network eng/dev/ops roles near Manchester, Birmingham or London, hybrid or remote 
+#### 👩🏻‍💻a network operations engineer with 8 years of experience <br> 🇬🇧 based in the UK  <br>🏳️‍🌈 my pronouns are she/her  <br> 🛠️ currently a Network Support Engineer at Node4, previously at Twitch and AWS <br> 🤙 to get in touch, DM me on  [LinkedIn](https://www.linkedin.com/in/oanders) <br> 📩 Talk to me about: network eng/dev/ops roles near Manchester, Birmingham or London, hybrid or remote 
 ## What can I do? 
 
 ### Network Operations:
